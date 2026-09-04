@@ -4,7 +4,7 @@ Deployed a personal portfolio website to AWS S3 using static
 website hosting. Configured bucket permissions, applied a public
 read bucket policy, and enabled S3 static website hosting.
 
-Live URL: (https://d14isz3drmtkcb.cloudfront.net/)
+Live URL: (d10kxon076mkn.cloudfront.net)
 
 Services used: Amazon S3, IAM bucket policies
 Skills demonstrated: Cloud storage, access control, static
